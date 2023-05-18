@@ -1,0 +1,20 @@
+.card{
+    height: 18rem;
+    width: 15rem;
+    border-radius: 1.1rem;
+    border: 1px solid blue;
+
+}
+
+.header{
+    background-color: blue;
+    color: white;
+    padding: 1px;
+    border-radius: 1rem 1rem 0rem 0rem;
+}
+
+.body{
+    padding: 1px 4px;
+    
+}
+
